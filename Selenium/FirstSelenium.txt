@@ -1,0 +1,128 @@
+C:\\Users\\Students\\Desktop\\Selunium API\\geckodriver.exe
+
+<input type="email" class="inputtext" name="email" id="email" tabindex="1" data-testid="royal_email">
+//tagName[@AttributeName='AttValue']
+//input[@id='email']
+
+<input type="password" class="inputtext" name="pass" id="pass" tabindex="2" data-testid="royal_pass">
+//tagName[@AttributeName='AttValue']
+//input[@id='pass']
+
+<input value="Log In" tabindex="4" data-testid="royal_login_button" type="submit" id="u_0_2">
+//input[@id='u_0_2']
+
+<select aria-label="Month" name="birthday_month" id="month" title="Month" class="_5dba">
+<option value="0">Month</option><option value="1">Jan</option><option value="2" selected="1">
+Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">
+May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">
+Aug</option><option value="9">Sep</option><option value="10">
+Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+//select[@id='month']
+
+
+<input type="text" class="inputtext _58mg _5dba _2ph-" data-type="text"
+ name="firstname" aria-required="1" placeholder="" aria-label="First name" id="u_0_e">
+//input[@id='u_0_e']
+//tagName[@AttributeName='AttrValue']
+
+<input type="text" class="inputtext _58mg _5dba _2ph-" 
+data-type="text" name="reg_email__" aria-required="1" 
+placeholder="" aria-label="Mobile number or email" id="u_0_j">
+
+<input type="password" class="inputtext _58mg _5dba _2ph-" 
+data-type="password" autocomplete="new-password" 
+name="reg_passwd__" aria-required="1" placeholder="" aria-label="New password" id="u_0_q">
+
+<select aria-label="Month" name="birthday_month" id="month" title="Month" 
+class="_5dba"><option value="0">Month</option><option value="1">
+Jan</option><option value="2" selected="1">Feb</option><option value="3">
+Mar</option><option value="4">Apr</option><option value="5">May</option>
+<option value="6">Jun</option><option value="7">J
+ul</option><option value="8">Aug</option><option value="9">
+
+<select aria-label="Day" name="birthday_day" 
+id="day" title="Day" class="_5dba"><option value="0">
+Day</option><option value="1">1</option><option value="2">
+2</option><option value="3">3</option><option value="4">
+4</option><option value="5">5</option><option value="6">
+6</option><option value="7">7</option><option value="8">
+8</option><option value="9">9</option><option value="10">
+10</option><option value="11">11</option><option value="12">
+12</option><option value="13">13</option><option value="14">
+14</option><option value="15">15</option><option value="16">
+16</option><option value="17">17</option><option value="18">
+18</option><option value="19">19</option><option value="20">
+20</option><option value="21">21</option><option value="22">22</option><option value="23">
+23</option><option value="24">24</option><option value="25">25</option><option value="26" selected="1">
+26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">
+30</option><option value="31">31</option></select>
+
+
+
+<footer id="glbfooter" role="contentinfo" class="gh-w"><!--<![endif]--><div><div id="rtm_html_1650"></div><div id="rtm_html_1651"></div></div><h2 class="gh-ar-hdn">Additional site navigation</h2><div id="gf-BIG" class="gffoot"><table class="gf-t"><tbody><tr><td><ul><li class="gf-li"><h3 class="gf-bttl"><a href="https://www.ebay.com/v/allcategories" _sp="m571.l3601" class="gf-bttl thrd">
+		Buy</a></h3></li><li class="gf-li"><a href="https://pages.ebay.com/help/account/registration.html" _sp="m571.l2895" class="thrd">
+		Registration</a></li><li class="gf-li"><a href="https://pages.ebay.com/ebay-money-back-guarantee/" _sp="m571.l4539" class="thrd">
+		eBay Money Back Guarantee</a></li><li class="gf-li"><a href="https://pages.ebay.com/help/buy/basics.html" _sp="m571.l2897" class="thrd">
+		Bidding &amp; buying help</a></li><li class="gf-li"><a href="https://pages.ebay.com/seller-center/stores/index.html?utm_source=gf&amp;utm_medium=onsite" _sp="m571.l2899" class="thrd">
+		Stores</a></li></ul></td><td><ul><li class="gf-li"><h3 class="gf-bttl"><a href="https://www.ebay.com/sl/sell" _sp="m571.l2903" class="gf-bttl thrd">
+		Sell</a></h3></li><li class="gf-li"><a href="https://www.ebay.com/sl/sell" _sp="m571.l2904" class="thrd">
+		Start selling</a></li><li class="gf-li"><a href="https://pages.ebay.com/sellerinformation/howtosell/sellingbasics.html" _sp="m571.l2905" class="thrd">
+		Learn to sell</a></li><li class="gf-li"><a href="http://pages.ebay.com/sellerinformation/ebayforbusiness/essentials.html" _sp="m571.l2906" class="thrd">
+		Business sellers</a></li><li class="gf-li"><a href="https://partnernetwork.ebay.com/" _exsp="m571.l2921" class="thrd">
+		Affiliates</a></li><li class="gf-li" style="padding-top:8px;"><h3 class="gf-bttl">Tools &amp; apps</h3></li><li class="gf-li"><a href="https://anywhere.ebay.com/mobile/" _sp="m571.l2944" class="thrd">
+		Mobile apps</a></li><li class="gf-li"><a href="https://developer.ebay.com" _exsp="m571.l2924" class="thrd">
+		Developers</a></li><li class="gf-li"><a href="https://pages.ebay.com/securitycenter/index.html" _sp="m571.l2907" class="thrd">
+		Security center</a></li><li class="gf-li"><a href="http://ofr.ebay.com/ws/eBayISAPI.dll?EbayTime" _sp="m571.l2908" class="thrd">
+		eBay official time</a></li><li class="gf-li"><a href="https://pages.ebay.com/sitemap.html" _sp="m571.l2909" class="thrd">
+		Site map</a></li></ul></td><td><ul><li class="gf-li"><h3 class="gf-bttl">eBay companies</h3></li><li class="gf-li"><a href="https://www.ebayclassifiedsgroup.com/" _exsp="m571.l2927" class="thrd">
+		eBay Classifieds</a></li><li class="gf-li"><a href="https://www.stubhub.com/" _exsp="m571.l3208" class="thrd">
+		StubHub</a></li><li class="gf-li"><a href="https://www.ebayinc.com/our-company/our-other-businesses/" _exsp="m571.l2931" class="thrd">
+		See all companies</a></li><li class="gf-li" style="padding-top:8px;"><h3 class="gf-bttl">Stay connected</h3></li><li class="gf-li"><a href="https://www.ebay.com/stories/" _sp="m571.l2940" class="thrd">
+		eBay's Blogs</a></li><li class="gf-li">
+							
+							<link href="https://ir.ebaystatic.com/rs/v/h0uj1osj1y1nlldfgf21ohvmvug.css?proc=DU:N" type="text/css" rel="stylesheet"><a href="https://www.facebook.com/eBay" _exsp="m571.l2942" class="thrd gf-i"><i class="gspr icfbg"></i>Facebook</a></li><li class="gf-li"><a href="https://twitter.com/#!/eBay" _exsp="m571.l2943" class="thrd gf-i"><i class="gspr ictwg"></i>Twitter</a></li></ul></td><td><ul><li class="gf-li"><h3 class="gf-bttl"><a href="https://www.ebayinc.com/" _exsp="m571.l2932" class="gf-bttl thrd">
+		About eBay</a></h3></li><li class="gf-li"><a href="https://www.ebayinc.com/our-company/" _exsp="m571.l2933" class="thrd">
+		Company info</a></li><li class="gf-li"><a href="https://www.ebayinc.com/stories/news/" _exsp="m571.l2934" class="thrd">
+		News</a></li><li class="gf-li"><a href="https://investors.ebayinc.com" _exsp="m571.l3269" class="thrd">
+		Investors</a></li><li class="gf-li"><a href="https://careers.ebayinc.com/" _exsp="m571.l2937" class="thrd">
+		Careers</a></li><li class="gf-li"><a href="https://www.ebayinc.com/our-company/diversity-inclusion/" _exsp="m571.l9789" class="thrd">
+		Diversity &amp; Inclusion</a></li><li class="gf-li"><a href="https://www.ebayinc.com/global-impact/" _exsp="m571.l9790" class="thrd">
+		Global Impact</a></li><li class="gf-li"><a href="https://www.ebaymainstreet.com" _exsp="m571.l2936" class="thrd">
+		Government relations</a></li><li class="gf-li"><a href="https://www.ebayadvertising.com/" _exsp="m571.l2938" class="thrd">
+		Advertise with us</a></li><li class="gf-li"><a href="https://pages.ebay.com/help/policies/overview.html" _sp="m571.l2910" class="thrd">
+		Policies</a></li><li class="gf-li"><a href="https://pages.ebay.com/help/policies/programs-vero-ov.html" _sp="m571.l3418" class="thrd">
+		Verified Rights Owner (VeRO) Program</a></li></ul></td><td><ul><li class="gf-li"><h3 class="gf-bttl"><a href="https://ocsnext.ebay.com/ocs/home" _sp="m571.l1545" class="gf-bttl thrd">
+		Help &amp; Contact</a></h3></li><li class="gf-li"><a href="https://resolutioncenter.ebay.com/" _sp="m571.l1619" class="thrd">
+		Resolution Center</a></li><li class="gf-li"><a href="https://pages.ebay.com/seller-center/index.html?utm_source=gf&amp;utm_medium=onsite" _sp="m571.l1613" class="thrd">
+		Seller Center</a></li><li class="gf-li"><a href="https://ocsnext.ebay.com/ocs/cuhome" _sp="m571.l2911" class="thrd">
+		Contact us</a></li><li class="gf-li"><a href="https://www.ebay.com/returns" _sp="m571.l9780" class="thrd">
+		eBay Returns</a></li><li class="gf-li" style="padding-top:8px;"><h3 class="gf-bttl"><a href="http://community.ebay.com" _sp="m571.l2912" class="gf-bttl thrd">
+		Community</a></h3></li><li class="gf-li"><a href="http://announcements.ebay.com" _sp="m571.l2913" class="thrd">
+		Announcements</a></li><li class="gf-li"><a href="http://community.ebay.com/t5/Commonly-Asked-Questions/tkb-p/Commonly_Asked_Questions" _sp="m571.l2914" class="thrd">
+		Knowledge Base</a></li><li class="gf-li"><a href="http://forums.ebay.com" _exsp="m571.l2939" class="thrd">
+		Discussion boards</a></li><li class="gf-li"><a href="https://www.charity.ebay.com" _exsp="m571.l3271" class="thrd">
+		eBay for Charity</a></li><li class="gf-li"><a href="https://www.ebay.com/rpp/charityshop" _exsp="m571.l9791" class="thrd">
+		Charity Shop</a></li><li class="gf-li"><a href="http://community.ebay.com/t5/Groups/ct-p/Groups" _exsp="m571.l2941" class="thrd">
+		eBay Community</a></li><li class="gf-li" style="padding-top:8px;"><h3 class="gf-bttl">eBay Sites</h3></li><li class="gf-li"><div class="gf-flags-wpr"><a aria-expanded="false" aria-controls="gf-f" role="button" class="thrd" title="eBay country sites" _sp="m571.l2586" href="https://www.ebay.com" id="gf-fbtn">United States<b class="gf-if gspr flus"></b><b id="gf-fbtn-arr" class="gh-sprRetina"></b></a><div id="gf-f" style="display: none;"><ul class="gf-ful" role="navigation"><li class="gf-f-li0"><a href="https://www.ebay.com.au" class="gf-if-a" title="eBay Australia"><b class="flau gf-if gspr"></b>Australia</a></li><li class="gf-f-li0"><a href="https://www.ebay.at" class="gf-if-a" title="eBay Austria"><b class="flat gf-if gspr"></b>Austria</a></li><li class="gf-f-li0"><a href="http://www.ebay.be" class="gf-if-a" title="eBay Belgium"><b class="flbe gf-if gspr"></b>Belgium</a></li><li class="gf-f-li0"><a href="https://www.ebay.ca" class="gf-if-a" title="eBay Canada"><b class="flca gf-if gspr"></b>Canada</a></li><li class="gf-f-li0"><a href="http://www.ebay.cn" class="gf-if-a" title="eBay China"><b class="flcn gf-if gspr"></b>China</a></li><li class="gf-f-li0"><a href="https://www.ebay.fr" class="gf-if-a" title="eBay France"><b class="flfr gf-if gspr"></b>France</a></li><li class="gf-f-li0"><a href="https://www.ebay.de" class="gf-if-a" title="eBay Germany"><b class="flde gf-if gspr"></b>Germany</a></li><li class="gf-f-li1 gf-f-li-top"><a href="https://www.ebay.com.hk" class="gf-if-a" title="eBay Hong Kong"><b class="flhk gf-if gspr"></b>Hong Kong</a></li><li class="gf-f-li1"><a href="https://www.ebay.in" class="gf-if-a" title="eBay India"><b class="flin gf-if gspr"></b>India</a></li><li class="gf-f-li1"><a href="https://www.ebay.ie" class="gf-if-a" title="eBay Ireland"><b class="flie gf-if gspr"></b>Ireland</a></li><li class="gf-f-li1"><a href="https://www.ebay.it" class="gf-if-a" title="eBay Italy"><b class="flit gf-if gspr"></b>Italy</a></li><li class="gf-f-li1"><a href="https://www.ebay.co.jp" class="gf-if-a" title="eBay Japan"><b class="fljp gf-if gspr"></b>Japan</a></li><li class="gf-f-li1"><a href="http://global.gmarket.co.kr/Home/Main" class="gf-if-a" title="eBay Korea"><b class="flkr gf-if gspr"></b>Korea</a></li><li class="gf-f-li1"><a href="https://www.ebay.com.my" class="gf-if-a" title="eBay Malaysia"><b class="flmy gf-if gspr"></b>Malaysia</a></li><li class="gf-f-li2 gf-f-li-top"><a href="https://www.ebay.nl" class="gf-if-a" title="eBay Netherlands"><b class="flnl gf-if gspr"></b>Netherlands</a></li><li class="gf-f-li2"><a href="https://www.ebay.ph" class="gf-if-a" title="eBay Philippines"><b class="flph gf-if gspr"></b>Philippines</a></li><li class="gf-f-li2"><a href="https://www.ebay.pl" class="gf-if-a" title="eBay Poland"><b class="flpl gf-if gspr"></b>Poland</a></li><li class="gf-f-li2"><a href="https://www.ebay.com.sg" class="gf-if-a" title="eBay Singapore"><b class="flsg gf-if gspr"></b>Singapore</a></li><li class="gf-f-li2"><a href="https://www.ebay.es" class="gf-if-a" title="eBay Spain"><b class="fles gf-if gspr"></b>Spain</a></li><li class="gf-f-li2"><a href="http://www.ebay.se" class="gf-if-a" title="eBay Sweden"><b class="flse gf-if gspr"></b>Sweden</a></li><li class="gf-f-li2"><a href="https://www.ebay.ch" class="gf-if-a" title="eBay Switzerland"><b class="flch gf-if gspr"></b>Switzerland</a></li><li class="gf-f-li3 gf-f-li-top"><a href="http://www.ebay.com.tw" class="gf-if-a" title="eBay Taiwan"><b class="fltw gf-if gspr"></b>Taiwan</a></li><li class="gf-f-li3"><a href="http://www.ebay.co.th" class="gf-if-a" title="eBay Thailand"><b class="flth gf-if gspr"></b>Thailand</a></li><li class="gf-f-li3"><a href="https://www.gittigidiyor.com" class="gf-if-a" title="eBay Turkey"><b class="fltr gf-if gspr"></b>Turkey</a></li><li class="gf-f-li3"><a href="https://www.ebay.co.uk" class="gf-if-a" title="eBay United Kingdom"><b class="flgb gf-if gspr"></b>United Kingdom</a></li><li class="gf-f-li3"><a href="https://www.ebay.vn" class="gf-if-a" title="eBay Vietnam"><b class="flvn gf-if gspr"></b>Vietnam</a></li></ul></div></div></li></ul></td></tr></tbody></table></div><div id="gf-t-box"><table class="gf-t"><tbody><tr><td colspan="2"><ul id="gf-l" class="gf-lb"><li class="gf-li"><a href="https://www.ebayinc.com" _exsp="m571.l2602" class="thrd gf-bar-a">
+		About eBay</a></li><li class="gf-li"><a href="http://announcements.ebay.com" _exsp="m571.l2935" class="thrd gf-bar-a">
+		Announcements</a></li><li class="gf-li"><a href="http://community.ebay.com" _exsp="m571.l1540" class="thrd gf-bar-a">
+		Community</a></li><li class="gf-li"><a href="https://pages.ebay.com/securitycenter/index.html" _exsp="m571.l2616" class="thrd gf-bar-a">
+		Security Center</a></li><li class="gf-li"><a href="https://resolutioncenter.ebay.com/" _sp="m571.l1619" class="thrd gf-bar-a">
+		Resolution Center</a></li><li class="gf-li"><a href="https://pages.ebay.com/seller-center/index.html?utm_source=gf&amp;utm_medium=onsite" _exsp="m571.l1613" class="thrd gf-bar-a">
+		Seller Center</a></li><li class="gf-li"><a href="https://pages.ebay.com/help/policies/overview.html" _exsp="m571.l2604" class="thrd gf-bar-a">
+		Policies</a></li><li class="gf-li"><a href="https://partnernetwork.ebay.com/" _exsp="m571.l3947" class="thrd gf-bar-a">
+		Affiliates</a></li><li class="gf-li"><a href="https://ocsnext.ebay.com/ocs/home" _sp="m571.l1545" class="thrd gf-bar-a">
+		Help &amp; Contact</a></li><li class="gf-li"><a href="https://pages.ebay.com/sitemap.html" _exsp="m571.l2909" class="thrd gf-bar-a">
+		Site Map</a></li></ul></td></tr><tr valign="top"><td class="gf-legal">Copyright © 1995-2018 eBay Inc. All Rights Reserved. <a href="https://www.ebayinc.com/accessibility/">Accessibility</a>, <a href="https://pages.ebay.com/help/policies/user-agreement.html">User Agreement</a>, <a href="https://pages.ebay.com/help/policies/privacy-policy.html">Privacy</a>, <a href="https://pages.ebay.com/help/account/cookies-web-beacons.html">Cookies</a> and <a href="https://cgi6.ebay.com/ws/eBayISAPI.dll?AdChoiceLandingPage&amp;partner=0" id="gf-AdChoice">AdChoice</a></td><td nowrap="" align="center"><a title="Verify site's SSL certificate" _exsp="m571.l3943" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebay.com&amp;lang=en" onclick="this.href='https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=#D#&amp;lang=en'.replace(/#D#/,location.host);return true" rel="noreferrer"><i id="gf-norton">Norton Secured - powered by Verisign</i></a></td></tr></tbody></table></div><!--[if lt IE 9]></div><![endif]--><!--[if (gte IE 9)|!(IE)]><!--></footer>
+Sep</option><option value="10">Oct</option>
+<option value="11">Nov</option><option value="12">
+Dec</option></select>
+
+
+
+<a href="https://www.ebay.com/v/allcategories" _sp="m571.l3601" class="gf-bttl thrd">
+		Buy</a>
+
+
+
+//div[@id='gf-BIG']/table/tbody/tr/td[2]/ul/li[2]/a

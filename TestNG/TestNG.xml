@@ -1,0 +1,15 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation">
+     <groups>
+    <run>
+      <include name="special"  />
+    </run>
+  </groups>
+  
+     <test name="Unit">
+        <classes>
+            <class name="TestngWork.WorkingWithTestNG"></class>
+        </classes>
+     </test>
+</suite>
